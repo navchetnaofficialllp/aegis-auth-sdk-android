@@ -8,3 +8,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Publishing credentials
+PUBLISHING_CREDENTIALS.md
+secring.gpg
+private_key.pem
+public_key.pem
